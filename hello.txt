@@ -1,3 +1,4 @@
 Some other file 
+hello from feat-2
 hello from feat-1
 hello from feat-3
